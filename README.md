@@ -4,5 +4,3 @@
 
 Sequential lists created using Data Structures in C language.
 
-Atletico de Madrid
-
